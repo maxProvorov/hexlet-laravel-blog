@@ -5,6 +5,6 @@
 
 <!-- Секция, содержащая HTML блок. Имеет открывающую и закрывающую часть. -->
 @section('content')
-    <h1>О блоге</h1>
     <p>Эксперименты с Laravel</p>
+    <a href="/articles">articles</a>
 @endsection
